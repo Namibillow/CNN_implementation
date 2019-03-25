@@ -1,7 +1,4 @@
 # CNN_implementation
-Implement Convolution Neural Network
+Practicing Deep Learning using Tensorflow and Keras
 
-- From Scratch
-- Using Tensorflow
-
-Tested with EMNIST
+-
